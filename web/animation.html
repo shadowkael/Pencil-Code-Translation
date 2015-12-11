@@ -1,0 +1,49 @@
+<!DOCTYPE html5>
+<html>
+<head>
+<title>This is title</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+<meta charset="utf-8" />
+</head>
+<body style="background:#66ccff" onload="fun()">
+ <button id="stop">stop</button>
+ <button id="up">up</button>
+ <button id="goback">goback</button><br />
+ <button id="left">left</button>
+ <button id="down">down</button>
+ <button id="right">right</button><br />
+ <img id="img" src="02.jpg" />
+<script>
+function fun(){
+	var l=document.getElementById("img").style;
+	l.position="absolute";
+	l.left="250px";
+	l.top="250px";
+	document.getElementById("up").onclick=function(){move(l,1);};
+	document.getElementById("down").onclick=function(){move(l,2);};
+	document.getElementById("left").onclick=function(){move(l,3);};
+	document.getElementById("right").onclick=function(){move(l,4);};
+	document.getElementById("goback").onclick=function(){move(l,5);};
+	document.getElementById("stop").onclick=function(){move(l,6);};
+}
+function move(ls,sign){
+	var x=parseInt(ls.left);
+	var y=parseInt(ls.top);
+	if(ls.move){
+		clearTimeout(ls.move);
+	}
+	switch(sign){
+	case 1:--y;break;
+	case 2:++y;break;
+	case 3:x--;break;
+	case 4:++x;break;
+	case 5:x=250;y=250;break;
+	case 6:clearTimeout(ls.move);break;
+	}
+	ls.left=x+"px";
+	ls.top=y+"px";
+	ls.move=setTimeout(function(){move(ls,sign);},10);
+}
+</script>
+</body>
+</html>
