@@ -1,2 +1,4 @@
-# C-Code
-Only some C language codes
+# my code
+C language
+web(JavaScript/HTML/PHP)
+Python
