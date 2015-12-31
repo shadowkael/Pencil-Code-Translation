@@ -12,13 +12,13 @@
  <button id="left">left</button>
  <button id="down">down</button>
  <button id="right">right</button><br />
- <img id="img" src="02.jpg" />
+ <p id="px" style="font-size:25;color:blue">O</p>
 <script>
 function fun(){
-	var l=document.getElementById("img").style;
+	var l=document.getElementById("px").style;
 	l.position="absolute";
-	l.left="250px";
-	l.top="250px";
+	if(!l.left) l.left="250px";
+	if(!l.top) l.top="250px";
 	document.getElementById("up").onclick=function(){move(l,1);};
 	document.getElementById("down").onclick=function(){move(l,2);};
 	document.getElementById("left").onclick=function(){move(l,3);};
