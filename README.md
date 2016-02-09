@@ -11,7 +11,7 @@
 
 程序依赖
 ---
-**程序的语言支持跟随系统，但对unicode支持很不好，尽可能只使用英文。**
+**程序的语言支持跟随系统，但对unicode支持很不好，尽可能只使用英文。**<br />
 **重要：需要安装ncurses库。 ** 可以通过GNU的FTP目录：http://www.gnu.org/order/ftp.html 找到提供免费下载NCURSES文件包的站点。
 
 安装
