@@ -6,7 +6,8 @@ all:
 	@echo 
 	@echo "*********************************************"
 	@echo "All files Built"
-	@echo "Please move to exe directory"
+	@echo "Please move to demo/exe directory"
+	@echo "Execute each file to see examples in action"
 	@echo "*********************************************"
 	@echo
 clean:
