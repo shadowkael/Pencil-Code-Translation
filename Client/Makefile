@@ -3,21 +3,14 @@
 # A few variables
 
 CC=gcc
-LIBS=-lmenu -lncursesw -pthread
-
-SRC_DIR=.
+LIBS=-pthread -lmenu -lncursesw
 EXE_DIR=../exe
 
-EXE = ${EXE_DIR}/Client
-
-${EXE_DIR}/%: %.o
+${EXE_DIR}/Client: Client.o
 	${CC} -o $@ $< ${LIBS}
 
-%.o: ${SRC_DIR}/%.c ${SRC_DIR}/%.h
+Client.o: *.c *.h
 	${CC} -o $@ -c $<
 
-all:  ${EXE}
-
-
 clean:
-	@rm -f ${EXE}
+	rm -f *.o

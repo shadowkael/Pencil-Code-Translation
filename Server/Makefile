@@ -4,20 +4,13 @@
 
 CC=gcc
 LIBS=-pthread
-
-SRC_DIR=.
 EXE_DIR=../exe
 
-EXES = ${EXE_DIR}/Server
-
-${EXE_DIR}/%: %.o
+${EXE_DIR}/Server: Server.o
 	${CC} -o $@ $< ${LIBS}
 
-%.o: ${SRC_DIR}/%.c
+Server.o: *.c *.h
 	${CC} -o $@ -c $<
 
-all:    ${EXES}
-
-
 clean:
-	@rm -f ${EXES}
+	rm -f *.o

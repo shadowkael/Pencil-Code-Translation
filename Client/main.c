@@ -19,7 +19,7 @@ int main(){
     err_sys("socket error");
   bzero(&serv, sizeof(serv));
   serv.sin_family = AF_INET;
-  serv.sin_addr.s_addr = inet_addr("127.0.0.1");
+  serv.sin_addr.s_addr = inet_addr(SERV_ADDR);
   serv.sin_port = htons(SERV_PORT);
   // Login
   printf("Client start ...\n");

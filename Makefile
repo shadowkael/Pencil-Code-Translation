@@ -3,13 +3,12 @@
 all:	
 	cd Client 	&& $(MAKE)
 	cd Server	&& $(MAKE)
+	cd Client 	&& $(MAKE) clean
+	cd Server	&& $(MAKE) clean
 	@echo 
 	@echo "*********************************************"
 	@echo "All files Built"
-	@echo "Please move to demo/exe directory"
-	@echo "Execute each file to see examples in action"
+	@echo "Please move to exe/ directory"
 	@echo "*********************************************"
 	@echo
-clean:
-	cd Client 	&& $(MAKE) clean
-	cd Server	&& $(MAKE) clean
+	
