@@ -11,7 +11,7 @@
 
 程序依赖
 ---
-**需要将 include/apue.h 和 myerr.h 添加到 /usr/include/ 目录下**
+**需要将 include/apue.h 和 myerr.h 添加到 /usr/include/ 目录下**<br />
 **程序的语言支持跟随系统，但对unicode支持很不好，尽可能只使用英文。**<br />
 **需要安装ncurses库。** 可以通过GNU的FTP目录：http://www.gnu.org/order/ftp.html 找到提供免费下载NCURSES文件包的站点。
 
