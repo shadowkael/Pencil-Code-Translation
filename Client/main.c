@@ -17,7 +17,7 @@ int main(){
 
   if((sockfd = socket(PF_INET, SOCK_DGRAM, 0)) < 0)
     err_sys("socket error");
-  bzero(&serv, sizeof(serv));
+  memset(&serv, 0, sizeof(serv));
   serv.sin_family = AF_INET;
   serv.sin_addr.s_addr = inet_addr(SERV_ADDR);
   serv.sin_port = htons(SERV_PORT);
@@ -28,11 +28,11 @@ int main(){
       fgets(uid, UIDSIZE + 1, stdin);
     }
   uid[strlen(uid) - 1] = '\0';
-  bzero(msg, MSGSIZE);
+  memset(msg, 0, MSGSIZE);
   msg_create(msg, 0, uid, MSG_LOGIN_REQ, NULL);
   if(sendto(sockfd, msg, MSGSIZE, 0, (SA)&serv, sizeof(serv)) != MSGSIZE)
     err_sys("sendto error");
-  bzero(msg, MSGSIZE);
+  memset(msg, 0, MSGSIZE);
   if(recvfrom(sockfd, msg, MSGSIZE, 0, (SA)NULL, (socklen_t*)NULL) < 0)
     err_sys("login failed");
   if(get_flag(msg) == MSG_NAME_USED)
@@ -55,12 +55,12 @@ int main(){
 
   // process input characters
   i = 0;
-  bzero(text, TEXTSIZE);
+  memset(text, 0, TEXTSIZE);
   for(;;){
       c = getch();
       switch(c){
         case '\r':case '\n':
-          bzero(msg, MSGSIZE);
+          memset(msg, 0, MSGSIZE);
           msg_create(msg, now_user, uid, MSG_TEXT, text);
           sendto(sockfd, msg, MSGSIZE, 0, (SA)&serv, sizeof(serv));
 
@@ -69,7 +69,7 @@ int main(){
           pthread_mutex_unlock(&mutex);
           memset(text, ' ', TEXTSIZE);
           mvwprintw(win_text, 1, 1, "%s", text);
-          bzero(text, TEXTSIZE);
+          memset(text, 0, TEXTSIZE);
           i = 0;
           wrefresh(win_text);
           break;
@@ -97,7 +97,7 @@ int main(){
           wrefresh(win_text);
           break;
         case 3: // process Ctrl-C
-          bzero(msg, MSGSIZE);
+          memset(msg, 0, MSGSIZE);
           msg_create(msg, 0, uid, MSG_QUIT, NULL);
           sendto(sockfd, msg, MSGSIZE, 0, (SA)&serv, sizeof(serv));
           win_exit();
@@ -123,7 +123,7 @@ void * msg_thread_fn(void * arg){
   memcpy(&serv, (struct sockaddr_in*)arg, sizeof(serv));
 
   for(;;){
-      bzero(msg, MSGSIZE);
+      memset(msg, 0, MSGSIZE);
       if(recvfrom(sockfd, msg, MSGSIZE, 0, (SA)NULL, (socklen_t*)NULL) < 0)
         continue;
       flag = get_flag(msg);
