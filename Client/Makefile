@@ -3,7 +3,7 @@
 # A few variables
 
 CC=gcc
-LIBS=-pthread -lmenu -lncursesw
+LIBS=-pthread -lmenu -lncurses
 EXE_DIR=../exe
 
 ${EXE_DIR}/Client: Client.o
