@@ -15,6 +15,10 @@ int main(){
   ITEM * cur_item = NULL;
   void (*p)(char*);
 
+  if (argc != 2)
+    err_quit ("Server address error!");
+  strcpy (SERV_ADDR, argv[1]);
+  
   if((sockfd = socket(PF_INET, SOCK_DGRAM, 0)) < 0)
     err_sys("socket error");
   memset(&serv, 0, sizeof(serv));
