@@ -15,7 +15,7 @@
 #include <time.h>
 #include <locale.h>
 
-#define SERV_ADDR "127.0.0.1" // Use your own server IP address
+char SERV_ADDR[16];
 #define SERV_PORT 8888
 
 #define SA struct sockaddr *
