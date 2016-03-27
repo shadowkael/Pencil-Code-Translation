@@ -17,7 +17,6 @@ int main(int argc, char **argv){
 
   if (argc != 2)
     err_quit ("Server address error!");
-
   strcpy (SERV_ADDR, argv[1]);
 
   if((sockfd = socket(PF_INET, SOCK_DGRAM, 0)) < 0)
