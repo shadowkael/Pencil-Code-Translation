@@ -1,5 +1,6 @@
 # UDP_IM
 A simple UDP IM, only run on Linux.
+This is just a practice for Linux multi-threaded programming.
 
 **The program use a 16 byte ID to identify each client, client's abortion wil make the ID never unusable.**<br />
 **Server limits the number of clients to 29.**<br />
