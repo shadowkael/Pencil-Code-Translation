@@ -25,7 +25,7 @@ Translated By [dongxifu](https://github.com/dongxifu)
 [Chapter 9 - Nested Loops](http://manual.pencilcode.net/home/pdf/109-Chapter9.pdf)
 
 [Chapter 10 - Recursion](http://manual.pencilcode.net/home/pdf/110-Chapter10.pdf)
-Translated By [tn4ever]
+Translated By [tn4ever](https://github.com/tn4ever)
 
 [Chapter 11 - HTML and the Web](http://manual.pencilcode.net/home/pdf/111-Chapter11.pdf)
 Translated By [chriszhuge](https://github.com/chriszhuge)
