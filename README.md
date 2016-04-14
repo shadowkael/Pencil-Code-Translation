@@ -1,6 +1,7 @@
 # Pencil-Code-Translation
 
 [Chapter 1 - The Pencil Code Environment](http://manual.pencilcode.net/home/pdf/101-Chapter1.pdf)
+Translated By [CareyKang]
 
 [Chapter 2 - Lines and Points](http://manual.pencilcode.net/home/pdf/102-Chapter2.pdf)
 
