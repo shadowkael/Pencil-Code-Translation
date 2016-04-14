@@ -15,7 +15,7 @@ Translated By [0X0E01](https://github.com/0X0E01)
 [Chapter 6 - Conditionals](http://manual.pencilcode.net/home/pdf/106-Chapter6.pdf)
 
 [Chapter 7 - JavaScript](http://manual.pencilcode.net/home/pdf/107-Chapter7.pdf)
-
+Translated By [shadowkael](https://github.com/shadowkael)
 [Chapter 8 - Arrays](http://manual.pencilcode.net/home/pdf/108-Chapter8.pdf)
 
 [Chapter 9 - Nested Loops](http://manual.pencilcode.net/home/pdf/109-Chapter9.pdf)
