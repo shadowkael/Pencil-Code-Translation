@@ -7,6 +7,7 @@
 [Chapter 3 - Input / Output](http://manual.pencilcode.net/home/pdf/103-Chapter3.pdf)
 
 [Chapter 4 - Loops](http://manual.pencilcode.net/home/pdf/104-Chapter4.pdf)
+Translated By [0X0E01](https://github.com/0X0E01)
 
 [Chapter 5 - Functions](http://manual.pencilcode.net/home/pdf/105-Chapter5.pdf)
 
