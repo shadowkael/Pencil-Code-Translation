@@ -26,5 +26,6 @@ Translated By [shadowkael](https://github.com/shadowkael)
 [Chapter 10 - Recursion](http://manual.pencilcode.net/home/pdf/110-Chapter10.pdf)
 
 [Chapter 11 - HTML and the Web](http://manual.pencilcode.net/home/pdf/111-Chapter11.pdf)
+Translated By [chriszhuge](https://github.com/chriszhuge)
 
 [Chapter 12 - jQuery](http://manual.pencilcode.net/home/pdf/112-Chapter12.pdf)
