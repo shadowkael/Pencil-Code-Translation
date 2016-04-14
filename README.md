@@ -6,6 +6,7 @@ Translated By [CareyKang](https://github.com/CareyKang)
 [Chapter 2 - Lines and Points](http://manual.pencilcode.net/home/pdf/102-Chapter2.pdf)
 
 [Chapter 3 - Input / Output](http://manual.pencilcode.net/home/pdf/103-Chapter3.pdf)
+Translated By [yungkc0](https://github.com/yungkc0)
 
 [Chapter 4 - Loops](http://manual.pencilcode.net/home/pdf/104-Chapter4.pdf)
 Translated By [0X0E01](https://github.com/0X0E01)
