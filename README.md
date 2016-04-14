@@ -20,6 +20,7 @@ Translated By [0X0E01](https://github.com/0X0E01)
 Translated By [shadowkael](https://github.com/shadowkael)
 
 [Chapter 8 - Arrays](http://manual.pencilcode.net/home/pdf/108-Chapter8.pdf)
+Translated By [dongxifu](https://github.com/dongxifu)
 
 [Chapter 9 - Nested Loops](http://manual.pencilcode.net/home/pdf/109-Chapter9.pdf)
 
