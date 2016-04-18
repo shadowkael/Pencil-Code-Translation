@@ -35,3 +35,4 @@ Translated By [tn4ever](https://github.com/tn4ever)
 Translated By [chriszhuge](https://github.com/chriszhuge)
 
 [Chapter 12 - jQuery](http://manual.pencilcode.net/home/pdf/112-Chapter12.pdf)
+Translated By [liyy2015]（https://github.com/liyy2015）
