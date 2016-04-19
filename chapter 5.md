@@ -274,12 +274,15 @@ Button“go backw”，->
         <td>时间</td>
 	</tr>
      <tr>
-		<td>Code</td> 
+		<td>Code
+      <center><img src="images/5/5.1.4.0.png"></center>
+      <center><img src="images/5/5.1.4.1.png"></center></td> 
+     
 		<td>在这一课中，按钮调用函数。每一个按钮都是一个被调用的函数。
 
       向学生展示一个按钮的功能。显示每一个按钮的代码。
 
-     提供这个链接： http://teachersguide.pencilcode.net/edit/functions/remotecontrol为发挥按钮的功能，让学生能够创造更多模式 。  输出：
+     提供这个链接： http://teachersguide.pencilcode.net/edit/functions/remotecontrol为发挥按钮的功能，让学生能够创造更多模式 。  输出：<center><img src="images/5/5.1.4.2.png"></center>
        </td>
         <td>示范：15分钟
              学生
@@ -298,7 +301,10 @@ Button“go backw”，->
         <td>时间</td>
 	</tr>
      <tr>
-		<td>Code for the circle button</td> 
+		<td>Code for the circle button
+         <center><img src="images/5/5.1.5.0.png"></center>
+          <center><img src="images/5/5.1.5.1.png"></center></td> 
+
 		<td>提供这个链接：http:/teachersguide.pencilcode.net/edit/functions/ShapeBot
 
          添加到程序附加代码，以绘制形状和按钮 
@@ -310,7 +316,7 @@ Button“go backw”，->
       教学提示：现在不注重参数的传递
        只是要求学生接受它。我们将在以后的课程中解决这个问题。
 
-      输出圆形按钮:
+      输出圆形按钮:<center><img src="images/5/5.1.5.2.png"></center>
        </td>
         <td>演示：20分钟
 
@@ -331,19 +337,24 @@ Button“go backw”，->
         <td>时间</td>
 	</tr>
      <tr>
-		<td>Code：</td> 
+		<td>Code：<center><img src="images/5/5.1.3.0.png">
+         </center>
+       <center><img src="images/5/5.1.3.3.png"></td> 
 		<td>介绍一个函数可以被称为几次来创建一个独特的或解决一个问题的想法。
      键入代码并显示一个函数可以被称为重复。
 
      注：发球的程序代码，可以发现在book.pencilcode.net 
+        <center><img src="images/5/5.1.3.1.png">
        </td>
         <td>演示：20分钟</td>
 	</tr>
      <tr>
-		<td>Code：Step 1</td> 
+		<td>Code：Step 1
+        <center><img src="images/5/5.1.5.3.png"></td> 
 		<td>介绍一个小函数可以写的思想和另一个可以写的程序。 
 
-     第一步：编写程序绘制背景：background() 
+     第一步：编写程序绘制背景：background()
+       <center><img src="images/5/5.1.5.4.png"> 
        </td>
         <td>演示
        时间：
@@ -351,29 +362,40 @@ Button“go backw”，->
      （包括所有的步骤 ）</td>
 	</tr>
   <tr>
-		<td>Code：Step 2</td> 
+		<td>Code：Step 2
+          <center><img src="images/5/5.1.7.0.png"></td> 
 		<td>第二步编写程序绘制的明星：star() 
+         <center><img src="images/5/5.1.7.1.png">
        </td>
         <td></td>
 	</tr>
 <tr>
-		<td>Code：Step 3</td> 
-		<td>第三步：编写一个主程序调用这两个程序：main()  
+		<td>Code：Step 3
+         <center><img src="images/5/5.1.7.2.png"></td> 
+		<td>第三步：编写一个主程序调用这两个程序：main() 
+         <center><img src="images/5/5.1.7.3.png"> 
        </td>
         <td></td>
 	</tr>
 <tr>
-		<td>Code：Step 4 Black，Sky，1，Stars </td> 
+		<td>Code：Step 4 Black，Sky，1，Stars
+          <center><img src="images/5/5.1.7.4.png">
+           <center><img src="images/5/5.1.7.5.png"></td> 
 		<td>第四步：链接主函数
       向学生解释main()不知道明星是新的程序代码可以在这里找到：
-      http://teachersguide.pencilcode.net./edit/chapter5/starslnTheSky  
+      http://teachersguide.pencilcode.net./edit/chapter5/starslnTheSky 
+         <center><img src="images/5/5.1.7.6.png"> 
        </td>
         <td></td>
 	</tr>
 <tr>
-		<td>Black，Sky，25，Stars </td> 
+		<td>Black，Sky，25，Stars 
+         <center><img src="images/5/5.1.7.4.png">
+             <center><img src="images/5/5.1.7.7.png"></td> 
 		<td>解释和展示给学生，star()可以用在不同的程序 
-     代码程序，告诉学生如何star()和background()功能复用  
+     代码程序，告诉学生如何star()和background()功能复用 
+      <center><img src="images/5/5.1.7.8.png"> 
+        <center><img src="images/5/5.1.7.9.png">
        </td>
         <td>演示
         时间：
@@ -388,7 +410,13 @@ Button“go backw”，->
         <td>时间</td>
 	</tr>
      <tr>
-		<td>Code </td> 
+		<td>Code
+         <center><img src="images/5/5.1.8.0.png">
+           <center><img src="images/5/5.1.8.1.png">
+             <center><img src="images/5/5.1.8.2.png"> 
+                 <center><img src="images/5/5.1.8.3.png">
+                     <center><img src="images/5/5.1.8.5.png">
+                        <center><img src="images/5/5.1.8.6.png"></td> 
 		<td>演示，现在很容易为程序添加新的功能（例如增加一个月亮） 
 
       复制左栏显示模块化的代码 
@@ -397,8 +425,9 @@ Button“go backw”，->
      证明这一点通过修改月亮的位置（jumpxy值）
  
      或者，修改FD -星功能价值。改变它的东西非常小，如6（代码和输出显示） 
-
+     <center><img src="images/5/5.1.8.4.png">
      注：主要main（）功能保持不变（未显示）
+      <center><img src="images/5/5.1.6.10.png">
        </td>
         <td>演示
         时间：
@@ -411,7 +440,7 @@ Button“go backw”，->
 
 </table>
 
-<center><img src="images/5/5.1.4.0.png"></center>
+
 
 ### 5.1.7教案 4 ###
 本课探究参数的功能。程序员设计的功能与更多的变量，使他们的程序可重用的各种应用。变量的值是从用户获得的，在作为参数传递给函数 
@@ -423,9 +452,21 @@ Button“go backw”，->
         <td>时间</td>
 	</tr>
      <tr>
-		<td>Code </td> 
+		<td>Code
+        <center><img src="images/5/5.1.8.7.png"> 
+           <center><img src="images/5/5.1.9.0.png">
+              <center><img src="images/5/5.1.9.1.png">
+                 <center><img src="images/5/5.1.9.2.png">
+                   <center><img src="images/5/5.1.9.5.png"></td> 
 		<td>以月亮的例子。问学生们如何改变月球的大小。月球计划（见代码）现在可以采取的大小和位置参数。并且根据不同的值月亮的位置和大小在天空会不同。解释说，在月球（230 230…），×将采取价值230，y并将采取价值230。 
        教学建议。请同学们拉上星程序并添加参数（代码）。您还可以与学生和在屏幕上一起写代码。
+        <center><img src="images/5/5.1.9.3.png">
+          <center><img src="images/5/5.1.9.4.png">
+            <center><img src="images/5/5.1.9.6.png">
+               <center><img src="images/5/5.1.9.7.png">
+                  <center><img src="images/5/5.1.9.8.png">
+                    <center><img src="images/5/5.1.9.9.png">
+                       <center><img src="images/5/5.1.9.10.png">
        </td>
         <td>演示
          时间：
