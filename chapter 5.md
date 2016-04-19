@@ -411,7 +411,7 @@ Button“go backw”，->
 
 </table>
 
-<center><img src="images/4/forever_loop.png"></center>
+<center><img src="images/5/5.1.4.0.png"></center>
 
 ### 5.1.7教案 4 ###
 本课探究参数的功能。程序员设计的功能与更多的变量，使他们的程序可重用的各种应用。变量的值是从用户获得的，在作为参数传递给函数 
