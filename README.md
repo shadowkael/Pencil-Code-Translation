@@ -7,7 +7,7 @@ Translated By [CareyKang](https://github.com/CareyKang)
 Translated By [ych0](https://github.com/ych0)
 
 [Chapter 3 - Input / Output](http://manual.pencilcode.net/home/pdf/103-Chapter3.pdf)
-Translated By [yungkc0](https://github.com/yungkc0)
+Translated By [yungkc0](https://github.com/yungkc0) Review By [shadowkael](https://github.com/shadowkael)
 
 [Chapter 4 - Loops](http://manual.pencilcode.net/home/pdf/104-Chapter4.pdf)
 Translated By [0X0E01](https://github.com/0X0E01)
@@ -31,7 +31,7 @@ Translated By [NullAerber](https://github.com/NullAerber)
 Translated By [tn4ever](https://github.com/tn4ever)
 
 [Chapter 11 - HTML and the Web](http://manual.pencilcode.net/home/pdf/111-Chapter11.pdf)
-Translated By [chriszhuge](https://github.com/chriszhuge)
+Translated By [chriszhuge](https://github.com/chriszhuge) Review By [shadowkael](https://github.com/shadowkael)
 
 [Chapter 12 - jQuery](http://manual.pencilcode.net/home/pdf/112-Chapter12.pdf)
 Translated By [liyy2015](https://github.com/liyy2015)
