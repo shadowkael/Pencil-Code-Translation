@@ -50,6 +50,7 @@ JavaScript和CoffeeScript是密切相关的语言，并且了解一些额外的�
 ![图2](images/7/2.png)
 ####小括号和分号
 JavaScript需要在函数名之后加上括号来运行一个函数调用。这些括号在CoffeeScript中是可选的，但是在JavaScript中是必须要写的。
+
 ![图3](images/7/3.png)
 JavaScript也建议在每个完整的语句结束添加分号（包括函数调用，返回语句和break和continue语句）。然而，不是每一行代码都是一个完整的语句。例如，第一行的if是一个不完整的表述，则不应该函数体单独使用分号。
 ####布尔表达式的标点符号
