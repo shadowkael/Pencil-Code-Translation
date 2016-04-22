@@ -19,7 +19,7 @@ Translated By [weixh121001](https://github.com/weixh121001)
 Translated By [hopeful](https://github.com/hopeful0)
 
 [Chapter 7 - JavaScript](http://manual.pencilcode.net/home/pdf/107-Chapter7.pdf)
-Translated By [shadowkael](https://github.com/shadowkael)
+Translated By [shadowkael](https://github.com/shadowkael) Review By [weixh121001](https://github.com/weixh121001)
 
 [Chapter 8 - Arrays](http://manual.pencilcode.net/home/pdf/108-Chapter8.pdf)
 Translated By [dongxifu](https://github.com/dongxifu)
@@ -34,4 +34,4 @@ Translated By [tn4ever](https://github.com/tn4ever)
 Translated By [chriszhuge](https://github.com/chriszhuge) Review By [shadowkael](https://github.com/shadowkael)
 
 [Chapter 12 - jQuery](http://manual.pencilcode.net/home/pdf/112-Chapter12.pdf)
-Translated By [liyy2015](https://github.com/liyy2015)
+Translated By [liyy2015](https://github.com/liyy2015)Review By [weixh121001](https://github.com/weixh121001)
