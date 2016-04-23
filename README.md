@@ -1,10 +1,10 @@
 # Pencil-Code-Translation
 
 [Chapter 1 - The Pencil Code Environment](http://manual.pencilcode.net/home/pdf/101-Chapter1.pdf)
-Translated By [CareyKang](https://github.com/CareyKang)
+Translated By [CareyKang](https://github.com/CareyKang) Review By [yungkc0](https://github.com/yungkc0)
 
 [Chapter 2 - Lines and Points](http://manual.pencilcode.net/home/pdf/102-Chapter2.pdf)
-Translated By [ych0](https://github.com/ych0)Review By [0X0E01](https://github.com/0X0E01)
+Translated By [ych0](https://github.com/ych0)Review By [0X0E01](https://github.com/0X0E01) [yungkc0](https://github.com/yungkc0)
 
 [Chapter 3 - Input / Output](http://manual.pencilcode.net/home/pdf/103-Chapter3.pdf)
 Translated By [yungkc0](https://github.com/yungkc0) Review By [shadowkael](https://github.com/shadowkael)
