@@ -13,7 +13,7 @@ Translated By [yungkc0](https://github.com/yungkc0) Review By [shadowkael](https
 Translated By [0X0E01](https://github.com/0X0E01) Review By [ych0](https://github.com/ych0)
 
 [Chapter 5 - Functions](http://manual.pencilcode.net/home/pdf/105-Chapter5.pdf)
-Translated By [weixh121001](https://github.com/weixh121001)
+Translated By [weixh121001](https://github.com/weixh121001)Review By [CareyKang](https://github.com/CareyKang) 
 
 [Chapter 6 - Conditionals](http://manual.pencilcode.net/home/pdf/106-Chapter6.pdf)
 Translated By [hopeful](https://github.com/hopeful0) Review By [ych0](https://github.com/ych0)
@@ -22,7 +22,7 @@ Translated By [hopeful](https://github.com/hopeful0) Review By [ych0](https://gi
 Translated By [shadowkael](https://github.com/shadowkael) Review By [weixh121001](https://github.com/weixh121001)
 
 [Chapter 8 - Arrays](http://manual.pencilcode.net/home/pdf/108-Chapter8.pdf)
-Translated By [dongxifu](https://github.com/dongxifu)
+Translated By [dongxifu](https://github.com/dongxifu)Review By [CareyKang](https://github.com/CareyKang) 
 
 [Chapter 9 - Nested Loops](http://manual.pencilcode.net/home/pdf/109-Chapter9.pdf)
 Translated By [NullAerber](https://github.com/NullAerber)
