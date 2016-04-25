@@ -25,10 +25,10 @@ Translated By [shadowkael](https://github.com/shadowkael) Review By [weixh121001
 Translated By [dongxifu](https://github.com/dongxifu)Review By [CareyKang](https://github.com/CareyKang) 
 
 [Chapter 9 - Nested Loops](http://manual.pencilcode.net/home/pdf/109-Chapter9.pdf)
-Translated By [NullAerber](https://github.com/NullAerber)
+Translated By [NullAerber](https://github.com/NullAerber)Review By [liyy2015](https://github.com/liyy2015) 
 
 [Chapter 10 - Recursion](http://manual.pencilcode.net/home/pdf/110-Chapter10.pdf)
-Translated By [tn4ever](https://github.com/tn4ever)
+Translated By [tn4ever](https://github.com/tn4ever)Review By [liyy2015](https://github.com/liyy2015) 
 
 [Chapter 11 - HTML and the Web](http://manual.pencilcode.net/home/pdf/111-Chapter11.pdf)
 Translated By [chriszhuge](https://github.com/chriszhuge) Review By [shadowkael](https://github.com/shadowkael)
