@@ -4,7 +4,7 @@
 Translated By [CareyKang](https://github.com/CareyKang) Review By [yungkc0](https://github.com/yungkc0)
 
 [Chapter 2 - Lines and Points](http://manual.pencilcode.net/home/pdf/102-Chapter2.pdf)
-Translated By [ych0](https://github.com/ych0)Review By [0X0E01](https://github.com/0X0E01) [yungkc0](https://github.com/yungkc0)
+Translated By [ych0](https://github.com/ych0) Review By [0X0E01](https://github.com/0X0E01) [yungkc0](https://github.com/yungkc0)
 
 [Chapter 3 - Input / Output](http://manual.pencilcode.net/home/pdf/103-Chapter3.pdf)
 Translated By [yungkc0](https://github.com/yungkc0) Review By [shadowkael](https://github.com/shadowkael)
@@ -16,7 +16,7 @@ Translated By [0X0E01](https://github.com/0X0E01) Review By [ych0](https://githu
 Translated By [weixh121001](https://github.com/weixh121001)Review By [CareyKang](https://github.com/CareyKang) 
 
 [Chapter 6 - Conditionals](http://manual.pencilcode.net/home/pdf/106-Chapter6.pdf)
-Translated By [hopeful](https://github.com/hopeful0) Review By [ych0](https://github.com/ych0)
+Translated By [hopeful](https://github.com/hopeful0) Review By [ych0](https://github.com/ych0)&[0X0E01](https://github.com/0X0E01)
 
 [Chapter 7 - JavaScript](http://manual.pencilcode.net/home/pdf/107-Chapter7.pdf)
 Translated By [shadowkael](https://github.com/shadowkael) Review By [weixh121001](https://github.com/weixh121001) [chriszhuge](https://github.com/chriszhuge) 
