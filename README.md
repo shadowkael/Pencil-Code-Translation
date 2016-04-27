@@ -13,7 +13,7 @@ Translated By [yungkc0](https://github.com/yungkc0) Review By [shadowkael](https
 Translated By [0X0E01](https://github.com/0X0E01) Review By [ych0](https://github.com/ych0)
 
 [Chapter 5 - Functions](http://manual.pencilcode.net/home/pdf/105-Chapter5.pdf)
-Translated By [weixh121001](https://github.com/weixh121001)Review By [CareyKang](https://github.com/CareyKang) 
+Translated By [weixh121001](https://github.com/weixh121001)Review By [CareyKang](https://github.com/CareyKang) [tn4ever](https://github.com/tn4ever)
 
 [Chapter 6 - Conditionals](http://manual.pencilcode.net/home/pdf/106-Chapter6.pdf)
 Translated By [hopeful](https://github.com/hopeful0) Review By [ych0](https://github.com/ych0)&[0X0E01](https://github.com/0X0E01)
