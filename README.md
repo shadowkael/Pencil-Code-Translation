@@ -7,7 +7,7 @@ Translated By [CareyKang](https://github.com/CareyKang) Review By [yungkc0](http
 Translated By [ych0](https://github.com/ych0) Review By [0X0E01](https://github.com/0X0E01) [yungkc0](https://github.com/yungkc0)
 
 [Chapter 3 - Input / Output](http://manual.pencilcode.net/home/pdf/103-Chapter3.pdf)
-Translated By [yungkc0](https://github.com/yungkc0) Review By [shadowkael](https://github.com/shadowkael)
+Translated By [yungkc0](https://github.com/yungkc0) Review By [shadowkael](https://github.com/shadowkael) [hopeful](https://github.com/hopeful0)
 
 [Chapter 4 - Loops](http://manual.pencilcode.net/home/pdf/104-Chapter4.pdf)
 Translated By [0X0E01](https://github.com/0X0E01) Review By [ych0](https://github.com/ych0)
@@ -19,7 +19,7 @@ Translated By [weixh121001](https://github.com/weixh121001)Review By [CareyKang]
 Translated By [hopeful](https://github.com/hopeful0) Review By [ych0](https://github.com/ych0)&[0X0E01](https://github.com/0X0E01)
 
 [Chapter 7 - JavaScript](http://manual.pencilcode.net/home/pdf/107-Chapter7.pdf)
-Translated By [shadowkael](https://github.com/shadowkael) Review By [weixh121001](https://github.com/weixh121001) [chriszhuge](https://github.com/chriszhuge) [hopeful](https://github.com/hopeful0)
+Translated By [shadowkael](https://github.com/shadowkael) Review By [weixh121001](https://github.com/weixh121001) [chriszhuge](https://github.com/chriszhuge) 
 
 [Chapter 8 - Arrays](http://manual.pencilcode.net/home/pdf/108-Chapter8.pdf)
 Translated By [dongxifu](https://github.com/dongxifu)Review By [CareyKang](https://github.com/CareyKang) 
